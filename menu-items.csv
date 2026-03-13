@@ -1,0 +1,29 @@
+Code,Title,Category,Price,Description,Subheader,Venue IDs
+S1,S1 Chicken Wings (6),starters,16,"Crispy, juicy, and deepfried with a signature spice blend.",
+S2,S2 Nachos Cheese,starters,14,"Loaded with savoury beef - the perfect bar bite.",
+S3,S3 Nachos Beef,starters,20,"Loaded with savoury beef - the perfect bar bite.",
+S4,S4 Satay Beef (10),starters,20,"Grilled to smoky perfection, served with a secret peanut sauce.",
+S5,S5 Satay Tau Kwa (5),starters,16,"A twist on local favourites — charred tofu with tangy daikon and satay sauce.",
+S6,S6 Satay Medley,starters,24,"Skewer goodness on a plate. 6 Beef Satay and 3 Tau Kwa",
+S7,S7 Man Tou (6),starters,7,"Golden-fried buns — crispy on the outside, soft inside. Served with condensed milk.",
+S8,S8 Steamed Gyoza (8),starters,20,"8 juicy dumplings topped with spicy Lao Gan Ma for a flavour kick.",
+S9,S9 Steak with Roasted Tomatoes,starters,16,"Tender beef slices balanced with sharp, house-pickled accents.",
+BM1,BM1 Homemade Beef Banh Mi,banhmi,17,"Marinated beef, pickled vegetables, and herbs in a crisp baguette — bold, savoury, and satisfying.","All banh mi come with a side of guava chips.",001|002|003
+BM2,BM2 Cha Lua Banh Mi,banhmi,14,"Vietnamese pork sausage layered with fresh herbs and pickles — simple, authentic, and flavour-packed.","All banh mi come with a side of guava chips.",001|002|003
+BM3,BM3 Chicken Banh Mi,banhmi,14,"Grilled chicken with tangy pickles, cilantro, and house sauce — a light yet hearty classic.","All banh mi come with a side of guava chips.",001|002|003
+O1,O1 Fresh Oysters (6),oysters,24,"Freshly shucked oysters with tabasco and lemon wedges",,001|002|003
+O2,O2 Baked Oysters with Cheese (3),oysters,20,"Creamy, golden perfection. 3 Fresh oysters baked under a rich blanket of melted cheese for the ultimate indulgence.",,001|002|003
+O3,O3 Baked Oysters with Peanut (3),oysters,20,"A bold local twist — 3 baked oysters topped with fragrant crushed peanuts for a nutty, savoury crunch.",,001|002|003
+O4,O4 Baked Medley (3 Peanut & 3 Cheese),oysters,30,"Double the goodness in a plate.",,001|002|003
+SD1,SD1 Prawn Salad,salads,20,"Fresh greens topped with prawns in your choice of dressing.","Choice of Lao Gan Ma or roasted sesame dressing.",001|002|003
+SD2,SD2 Steak Salad,salads,20,"Juicy grilled beef steak served over fresh greens with your choice of dressing.","Choice of Lao Gan Ma or roasted sesame dressing.",001|002|003
+SD3,SD3 Grilled Chicken Salad,salads,17,"Tender grilled chicken over crisp greens with your choice of dressing.","Choice of Lao Gan Ma or roasted sesame dressing.",001|002|003
+SD4,SD4 Tau Kwa Salad,salads,17,"Salad with tau kwa with your choice of dressing.","Choice of Lao Gan Ma or roasted sesame dressing.",001|002|003
+MT1,MT1 6 Prawn Tapas,mantoutapas,17,"Tossed in Lao Gan Ma sauce, bringing a fiery umami crunch.",,001|002|003
+MT2,MT2 6 Otah Tapas,mantoutapas,17,"A refreshing local twist with bold coastal flavours.",,001|002|003
+MT3,MT3 6 Ham Tapas,mantoutapas,17,"Smooth Vietnamese ham with a modern touch.",,001|002|003
+MT4,MT4 6 Beef Patty Tapas,mantoutapas,17,"Topped with wasabi, where heat meets bold.",,001|002|003
+MT5,MT5 6 Chicken Tapas,mantoutapas,17,"Coated in a spicy glaze, punch and addictive",,001|002|003
+MT6,MT6 8 Mixed Plate Tapas,mantoutapas,22,"Choice of mix of prawn, otah, ham, beef patty, chicken, or mushroom.",,001|002|003
+BC1,BC1 Tiramisu (270g),birthdaycake,28,"Classic Italian indulgence with rich espresso and mascarpone layers. (270grams)",,001|002|003
+
